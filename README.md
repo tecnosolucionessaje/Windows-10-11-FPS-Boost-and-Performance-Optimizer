@@ -18,13 +18,12 @@ Unlike other clunky software, our script is built natively in **Batch**, meaning
 To support development and get access to the official, safe, and fully updated script package (including English and Spanish installation manuals), click the official store button below:
 
 <p align="center">
-  <a href="https://shoppy.gg/product/Dzlk4Gc">
+  <a href="https://shoppy.gg/product/Dzlk4Gc" target="_blank">
     <img src="https://shields.io" alt="Buy on Shoppy" height="40">
   </a>
-</p>k4Gc](https://shoppy.gg/product/Dzlk4Gc)
+</p>
 
-*🔒 Secure payment processed via **Bitcoin (BTC)** . Instant download delivery to your email.*
+*🔒 Secure payment processed via **Bitcoin (BTC)**. Instant download delivery to your email.*
 
 ---
 *(c) 2026 Tecno Soluciones Saje - Expert Innovation & Support.*
-
