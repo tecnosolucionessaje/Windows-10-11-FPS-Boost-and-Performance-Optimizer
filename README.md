@@ -17,7 +17,7 @@ Unlike other clunky software, our script is built natively in **Batch**, meaning
 
 To support development and get access to the official, safe, and fully updated script package (including English and Spanish installation manuals), click the official store button below:
 
-[![Buy on Shoppy](https://shoppy.gg/product/Dzlk4Gc)
+[[[![Buy on Shoppy](https://shoppy.gg/product/Dzlk4Gc)](https://shoppy.gg/product/Dzlk4Gc](https://shoppy.gg/product/Dzlk4Gc)
 
 *🔒 Secure payment processed via **Bitcoin (BTC)** . Instant download delivery to your email.*
 
